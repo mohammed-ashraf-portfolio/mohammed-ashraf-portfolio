@@ -1,0 +1,231 @@
+{
+  "personal": {
+    "name": {
+      "en": "Mohammed Ashraf",
+      "ar": "محمد اشرف"
+    },
+    "degree": {
+      "en": "Bachelor's in Biomedical Engineering",
+      "ar": "بكالوريوس هندسة الأجهزة الطبية"
+    },
+    "workType": {
+      "en": "Freelancer · Private Sector",
+      "ar": "فري لانس · القطاع الخاص"
+    },
+    "bio": {
+      "en": "A multidisciplinary creative professional with a background in Biomedical Engineering. I blend technical precision with artistic vision to craft compelling visuals, intuitive digital experiences, and innovative designs across multiple domains — from motion graphics and branding to web, app, and medical device design.",
+      "ar": "مصمم إبداعي متعدد التخصصات بخلفية في هندسة الأجهزة الطبية. أمزج الدقة التقنية مع الرؤية الفنية لإنشاء مرئيات جذابة وتجارب رقمية سهلة الاستخدام وتصميمات مبتكرة عبر مجالات متعددة — من الموشن جرافيك والهوية البصرية إلى تصميم المواقع والتطبيقات والأجهزة الطبية."
+    },
+    "tagline": {
+      "en": "Where Engineering Meets Art",
+      "ar": "حيث تلتقي الهندسة بالفن"
+    },
+    "stats": {
+      "projects": { "value": 120, "label": { "en": "Projects Completed", "ar": "مشروع مكتمل" } },
+      "clients": { "value": 60, "label": { "en": "Happy Clients", "ar": "عميل سعيد" } },
+      "experience": { "value": 5, "label": { "en": "Years Experience", "ar": "سنوات خبرة" } },
+      "awards": { "value": 12, "label": { "en": "Awards Won", "ar": "جائزة حُصِد" } }
+    },
+    "email": "mohammed.ashraf@email.com",
+    "phone": "+966 5X XXX XXXX",
+    "location": { "en": "Saudi Arabia", "ar": "المملكة العربية السعودية" }
+  },
+  "roles": {
+    "en": [
+      "Graphic Designer",
+      "Storyboard Artist",
+      "Motion Graphics Designer",
+      "Web Designer",
+      "App Designer",
+      "Interior Designer",
+      "Medical Device Designer"
+    ],
+    "ar": [
+      "مصمم جرافيك",
+      "رسام ستوري بورد",
+      "مصمم موشن جرافيك",
+      "مصمم ويب سايد",
+      "مصمم تطبيقات",
+      "مصمم ديكور داخلي",
+      "مصمم أجهزة طبية"
+    ]
+  },
+  "skills": [
+    { "name": { "en": "Graphic Design", "ar": "تصميم جرافيك" }, "level": 95, "icon": "🎨", "category": "design" },
+    { "name": { "en": "Motion Graphics", "ar": "موشن جرافيك" }, "level": 90, "icon": "🎬", "category": "motion" },
+    { "name": { "en": "Storyboarding", "ar": "ستوري بورد" }, "level": 88, "icon": "📋", "category": "art" },
+    { "name": { "en": "Web Design", "ar": "تصميم مواقع" }, "level": 85, "icon": "🌐", "category": "web" },
+    { "name": { "en": "App UI/UX Design", "ar": "تصميم تطبيقات" }, "level": 85, "icon": "📱", "category": "web" },
+    { "name": { "en": "Interior Design", "ar": "تصميم داخلي" }, "level": 80, "icon": "🏠", "category": "design" },
+    { "name": { "en": "Medical Device Design", "ar": "تصميم أجهزة طبية" }, "level": 82, "icon": "🩺", "category": "engineering" },
+    { "name": { "en": "Adobe Illustrator", "ar": "أدوبي إليستريتور" }, "level": 92, "icon": "✏️", "category": "tools" },
+    { "name": { "en": "Adobe Photoshop", "ar": "أدوبي فوتوشوب" }, "level": 90, "icon": "🖼️", "category": "tools" },
+    { "name": { "en": "After Effects", "ar": "أفتر إفكتس" }, "level": 88, "icon": "🎞️", "category": "tools" },
+    { "name": { "en": "Figma", "ar": "فيغما" }, "level": 87, "icon": "🔷", "category": "tools" },
+    { "name": { "en": "3D Modeling", "ar": "نمذجة ثلاثية الأبعاد" }, "level": 75, "icon": "🧊", "category": "engineering" }
+  ],
+  "services": [
+    {
+      "icon": "🎨",
+      "title": { "en": "Graphic Design", "ar": "تصميم جرافيك" },
+      "description": {
+        "en": "Brand identity, logos, posters, social media visuals, and print materials crafted with precision and creativity.",
+        "ar": "هوية بصرية، شعارات، ملصقات، تصاميم سوشيال ميديا ومطبوعات تُنجز بدقة وإبداع."
+      },
+      "tags": { "en": ["Branding", "Logo", "Print", "Social Media"], "ar": ["هوية", "شعار", "مطبوعات", "سوشيال ميديا"] }
+    },
+    {
+      "icon": "🎬",
+      "title": { "en": "Motion Graphics", "ar": "موشن جرافيك" },
+      "description": {
+        "en": "Dynamic animated content, explainer videos, title sequences, and broadcast graphics that captivate audiences.",
+        "ar": "محتوى متحرك ديناميكي، فيديوهات شرح، تتر برامج، وجرافيك بث يأسر المشاهدين."
+      },
+      "tags": { "en": ["Animation", "Video", "After Effects", "2D/3D"], "ar": ["أنيميشن", "فيديو", "أفتر إفكتس", "ثنائي/ثلاثي الأبعاد"] }
+    },
+    {
+      "icon": "📋",
+      "title": { "en": "Storyboard Art", "ar": "رسم ستوري بورد" },
+      "description": {
+        "en": "Detailed storyboards for ads, films, animations, and video productions that bring narratives to life visually.",
+        "ar": "ستوري بورد تفصيلي للإعلانات والأفلام والأنيميشن والإنتاج المرئي لإحياء الروايات بصرياً."
+      },
+      "tags": { "en": ["Narrative", "Film", "Ads", "Animation"], "ar": ["سرد قصصي", "أفلام", "إعلانات", "أنيميشن"] }
+    },
+    {
+      "icon": "🌐",
+      "title": { "en": "Web Design", "ar": "تصميم مواقع إلكترونية" },
+      "description": {
+        "en": "Modern, responsive website designs with intuitive UX, engaging aesthetics, and seamless user journeys.",
+        "ar": "تصميم مواقع عصرية متجاوبة مع تجربة مستخدم بديهية وجماليات جذابة ورحلات مستخدم سلسة."
+      },
+      "tags": { "en": ["UI/UX", "Responsive", "Figma", "HTML/CSS"], "ar": ["واجهات", "متجاوب", "فيغما", "HTML/CSS"] }
+    },
+    {
+      "icon": "📱",
+      "title": { "en": "App Design", "ar": "تصميم تطبيقات" },
+      "description": {
+        "en": "Sleek mobile app interfaces for iOS and Android with user-centric design principles and pixel-perfect execution.",
+        "ar": "واجهات تطبيقات موبايل أنيقة لـ iOS و Android بمبادئ تصميم تمحور حول المستخدم وتنفيذ دقيق."
+      },
+      "tags": { "en": ["iOS", "Android", "UX Research", "Prototyping"], "ar": ["iOS", "أندرويد", "بحث UX", "نماذج أولية"] }
+    },
+    {
+      "icon": "🏠",
+      "title": { "en": "Interior Design", "ar": "تصميم ديكور داخلي" },
+      "description": {
+        "en": "Creative interior design concepts blending aesthetics with functionality for residential and commercial spaces.",
+        "ar": "مفاهيم تصميم داخلي إبداعية تمزج الجماليات بالوظيفية للمساحات السكنية والتجارية."
+      },
+      "tags": { "en": ["3D Render", "Residential", "Commercial", "Concept"], "ar": ["تصيير ثلاثي الأبعاد", "سكني", "تجاري", "مفاهيم"] }
+    },
+    {
+      "icon": "🩺",
+      "title": { "en": "Medical Device Design", "ar": "تصميم أجهزة طبية" },
+      "description": {
+        "en": "Specialized design of medical equipment interfaces and enclosures, bridging biomedical engineering with UX.",
+        "ar": "تصميم متخصص لواجهات وهياكل الأجهزة الطبية، يجمع بين هندسة الأجهزة الطبية وتجربة المستخدم."
+      },
+      "tags": { "en": ["Biomedical", "UX", "Regulatory", "3D CAD"], "ar": ["بيوميديكال", "تجربة مستخدم", "لوائح", "CAD ثلاثي الأبعاد"] }
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": { "en": "Brand Identity – Al Noor Clinic", "ar": "هوية بصرية – عيادة النور" },
+      "category": "graphic",
+      "tags": { "en": ["Branding", "Logo", "Print"], "ar": ["هوية", "شعار", "مطبوعات"] },
+      "description": { "en": "Complete brand identity package including logo, color palette, typography, and stationery.", "ar": "حزمة هوية بصرية كاملة تشمل الشعار ولوحة الألوان والطباعة والقرطاسية." },
+      "image": "https://via.placeholder.com/600x400/7c3aed/ffffff?text=Brand+Identity",
+      "year": 2024,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": { "en": "Motion Graphics – Product Launch", "ar": "موشن جرافيك – إطلاق منتج" },
+      "category": "motion",
+      "tags": { "en": ["Motion", "Animation", "Video"], "ar": ["موشن", "أنيميشن", "فيديو"] },
+      "description": { "en": "60-second animated product launch video for a tech startup, including 3D elements.", "ar": "فيديو أنيميشن 60 ثانية لإطلاق منتج شركة ناشئة تقنية مع عناصر ثلاثية الأبعاد." },
+      "image": "https://via.placeholder.com/600x400/06b6d4/ffffff?text=Motion+Graphics",
+      "year": 2024,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": { "en": "UI/UX Design – HealthTrack App", "ar": "تصميم UI/UX – تطبيق HealthTrack" },
+      "category": "app",
+      "tags": { "en": ["App", "UI/UX", "Mobile"], "ar": ["تطبيق", "واجهات", "موبايل"] },
+      "description": { "en": "A health monitoring app UI with intuitive dashboards, activity tracking, and clean visual hierarchy.", "ar": "واجهة تطبيق مراقبة صحية مع لوحات معلومات بديهية وتتبع نشاط وتسلسل هرمي بصري نظيف." },
+      "image": "https://via.placeholder.com/600x400/3b82f6/ffffff?text=App+Design",
+      "year": 2024,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": { "en": "Storyboard – TV Commercial", "ar": "ستوري بورد – إعلان تلفزيوني" },
+      "category": "storyboard",
+      "tags": { "en": ["Storyboard", "Commercial", "Art"], "ar": ["ستوري بورد", "إعلان", "فن"] },
+      "description": { "en": "30-scene detailed storyboard for a national TV commercial campaign.", "ar": "ستوري بورد تفصيلي من 30 مشهداً لحملة إعلانية تلفزيونية وطنية." },
+      "image": "https://via.placeholder.com/600x400/a855f7/ffffff?text=Storyboard",
+      "year": 2023,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": { "en": "Website Design – Architecture Firm", "ar": "تصميم موقع – شركة هندسية" },
+      "category": "web",
+      "tags": { "en": ["Web", "UI/UX", "Architecture"], "ar": ["ويب", "واجهات", "هندسة"] },
+      "description": { "en": "Elegant website design for an architecture firm with portfolio gallery and project showcase.", "ar": "تصميم موقع أنيق لشركة هندسية مع معرض أعمال وعرض المشاريع." },
+      "image": "https://via.placeholder.com/600x400/0891b2/ffffff?text=Web+Design",
+      "year": 2023,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "title": { "en": "Interior Design – Luxury Office", "ar": "تصميم داخلي – مكتب فاخر" },
+      "category": "interior",
+      "tags": { "en": ["Interior", "3D Render", "Commercial"], "ar": ["ديكور", "تصيير ثلاثي", "تجاري"] },
+      "description": { "en": "Complete interior design concept for a luxury executive office with 3D renderings.", "ar": "مفهوم تصميم داخلي كامل لمكتب تنفيذي فاخر مع تصيير ثلاثي الأبعاد." },
+      "image": "https://via.placeholder.com/600x400/8b5cf6/ffffff?text=Interior+Design",
+      "year": 2023,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "title": { "en": "Medical Device UI – Vital Monitor", "ar": "واجهة جهاز طبي – مراقب العلامات" },
+      "category": "medical",
+      "tags": { "en": ["Medical", "UX", "Engineering"], "ar": ["طبي", "تجربة مستخدم", "هندسة"] },
+      "description": { "en": "User interface design for a vital signs monitoring device combining medical requirements with UX.", "ar": "تصميم واجهة مستخدم لجهاز مراقبة العلامات الحيوية يجمع المتطلبات الطبية مع تجربة المستخدم." },
+      "image": "https://via.placeholder.com/600x400/10b981/ffffff?text=Medical+Device",
+      "year": 2024,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "title": { "en": "Social Media Campaign – Ramadan", "ar": "حملة سوشيال ميديا – رمضان" },
+      "category": "graphic",
+      "tags": { "en": ["Social Media", "Campaign", "Graphic"], "ar": ["سوشيال ميديا", "حملة", "جرافيك"] },
+      "description": { "en": "30-day Ramadan social media content package with animated posts and story templates.", "ar": "حزمة محتوى سوشيال ميديا رمضانية لـ 30 يوم مع منشورات متحركة وقوالب ستوري." },
+      "image": "https://via.placeholder.com/600x400/f59e0b/ffffff?text=Social+Media",
+      "year": 2023,
+      "featured": false
+    }
+  ],
+  "contact": {
+    "email": "mohammed.ashraf@email.com",
+    "phone": "+966 5X XXX XXXX",
+    "location": { "en": "Saudi Arabia", "ar": "المملكة العربية السعودية" },
+    "availability": { "en": "Available for freelance projects", "ar": "متاح للمشاريع المستقلة" }
+  },
+  "social": [
+    { "platform": "Behance", "icon": "behance", "url": "https://behance.net/", "label": "Behance" },
+    { "platform": "Dribbble", "icon": "dribbble", "url": "https://dribbble.com/", "label": "Dribbble" },
+    { "platform": "LinkedIn", "icon": "linkedin", "url": "https://linkedin.com/in/", "label": "LinkedIn" },
+    { "platform": "Instagram", "icon": "instagram", "url": "https://instagram.com/", "label": "Instagram" },
+    { "platform": "GitHub", "icon": "github", "url": "https://github.com/", "label": "GitHub" }
+  ],
+  "meta": {
+    "lastUpdated": "2024-01-01",
+    "version": "1.0.0"
+  }
+}
